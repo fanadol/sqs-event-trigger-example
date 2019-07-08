@@ -1,0 +1,10 @@
+{
+	"name": "sqs-test",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"aws-sdk": "^2.488.0",
+		"serverless-offline": "^5.7.1"
+	}
+}
